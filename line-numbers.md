@@ -9,6 +9,7 @@ Adin was here! 3
 I like watching TV.
 #### 8
 #### 9
+GitHub is awesome.
 #### 10
 #### 11
 #### 12
